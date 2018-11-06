@@ -1,4 +1,6 @@
-h1, h2 {
+h1,
+h2,
+p {
     font-family: 'Montserrat', Helvetica, sans-serif;
 }
 
@@ -29,7 +31,7 @@ h1, h2 {
     padding-bottom: 2em;    
 }
 
-.small-images-container h2 {
+.small-images-container p {
     font-size: 24px;
 }
 
